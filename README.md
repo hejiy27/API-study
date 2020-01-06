@@ -15,7 +15,7 @@
 * DB 모델링 -> Serializer (API를 만들기위해 모델 JSON 변환) -> view(웹에서 확인가능하게 view 코드작성) -> url 연결 -> 웹에서 확인
 
 ## DB 모델링
-
+![Book](https://user-images.githubusercontent.com/46435457/71803225-88bb4c00-30a3-11ea-96ad-a2f97c1cbb58.png)
 
  
 
