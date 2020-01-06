@@ -14,8 +14,20 @@
 #  3. API 만드는 순서
 * DB 모델링 -> Serializer (API를 만들기위해 모델 JSON 변환) -> view(웹에서 확인가능하게 view 코드작성) -> url 연결 -> 웹에서 확인
 
-## DB 모델링
+## models.py
 ![Book](https://user-images.githubusercontent.com/46435457/71803225-88bb4c00-30a3-11ea-96ad-a2f97c1cbb58.png)
+
+
+## Serializer.py
+![Serializers](https://user-images.githubusercontent.com/46435457/71803313-d041d800-30a3-11ea-84f4-95c23b4e0c88.png)
+
+
+## views.py
+![view](https://user-images.githubusercontent.com/46435457/71803314-d33cc880-30a3-11ea-9f66-7fe7a64723b7.png)
+
+
+## url.py
+
 
  
 
