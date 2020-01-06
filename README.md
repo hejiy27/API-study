@@ -28,6 +28,10 @@
 
 ## url.py
 
+![url](https://user-images.githubusercontent.com/46435457/71803584-85749000-30a4-11ea-897d-2d59138d050c.png)
+
+## Wed 확인
+![API](https://user-images.githubusercontent.com/46435457/71803596-8d343480-30a4-11ea-94f0-718d2a854d0c.png)
 
  
 
